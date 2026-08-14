@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-nilarn.ridlerlandscapes.co.nz/sitemap.xml
